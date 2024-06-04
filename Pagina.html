@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biografía de Porfirio Díaz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Biografía de Porfirio Díaz</h1>
+</header>
+
+<div class="container">
+    <h2>Primeros años y educación</h2>
+    <p>
+        José de la Cruz Porfirio Díaz Mori nació el 15 de septiembre de 1830 en Oaxaca, México. Fue el sexto de siete hijos en una familia mestiza de clase media. Su padre, José Faustino Díaz, era un mestizo de origen indígena y su madre, Petrona Mori, era una mujer mestiza de origen mixto. A temprana edad, Porfirio quedó huérfano de padre, lo que llevó a su madre a trabajar arduamente para mantener a su familia.
+    </p>
+    <p>
+        Díaz asistió a la escuela primaria en el Instituto de Ciencias y Artes de Oaxaca, donde recibió una educación liberal que influiría en su pensamiento político. Inicialmente, Díaz tenía la intención de unirse al sacerdocio, pero la invasión estadounidense de 1846-1848 cambió sus planes. Se unió a las fuerzas militares locales para defender a México de la invasión, un acto que marcó el comienzo de su carrera militar.
+    </p>
+
+    <h2>Carrera militar y ascenso político</h2>
+    <p>
+        Durante la Revolución de Ayutla (1854-1855), Díaz se unió a las fuerzas liberales que luchaban contra el dictador Antonio López de Santa Anna. Su valentía en combate le valió el reconocimiento y fue ascendiendo rápidamente en las filas militares. Participó en la Guerra de Reforma (1857-1860), un conflicto civil entre liberales y conservadores, y nuevamente se destacó por su liderazgo y habilidades tácticas.
+    </p>
+    <p>
+        Con la intervención francesa en México y la instauración del Segundo Imperio Mexicano bajo Maximiliano de Habsburgo, Díaz se convirtió en un líder destacado de las fuerzas republicanas que defendían la soberanía mexicana. Su éxito militar fue crucial en la eventual derrota de las fuerzas imperiales y la restauración de la República en 1867.
+    </p>
+
+    <h2>El Porfiriato</h2>
+    <p>
+        Porfirio Díaz ascendió al poder en 1876 después de liderar una rebelión contra el presidente Sebastián Lerdo de Tejada. Su lema "Orden y progreso" reflejaba su visión de modernizar México mediante el desarrollo económico y la estabilidad política. A pesar de su promesa inicial de no buscar la reelección, Díaz permaneció en el poder por más de tres décadas, gobernando de 1876 a 1880 y luego de 1884 a 1911.
+    </p>
+    <p>
+        Durante el Porfiriato, Díaz implementó políticas que favorecieron la inversión extranjera y el crecimiento industrial. Sin embargo, su régimen se caracterizó también por la represión política, la censura y la concentración del poder. Los opositores políticos fueron encarcelados o exiliados, y las elecciones fueron manipuladas para garantizar su permanencia en el poder.
+    </p>
+
+    <h2>Últimos años y legado</h2>
+    <p>
+        En 1910, las crecientes tensiones sociales y políticas culminaron en la Revolución Mexicana. Francisco I. Madero, un opositor de Díaz, llamó a una insurrección armada que finalmente llevó a la renuncia de Díaz en mayo de 1911. Tras su dimisión, Díaz se exilió en Francia, donde vivió el resto de sus días. Falleció el 2 de julio de 1915 en París y fue enterrado en el cementerio de Montparnasse.
+    </p>
+    <p>
+        El legado de Porfirio Díaz es complejo y contradictorio. Por un lado, es recordado por modernizar la infraestructura y la economía de México, mientras que por otro lado, su régimen autoritario y las profundas desigualdades sociales que surgieron durante su mandato son vistos como causas fundamentales de la Revolución Mexicana.
+    </p>
+
+    <h2>Referencias</h2>
+    <ul>
+        <li><a href="https://www.biografiasyvidas.com/biografia/d/diaz_porfirio.htm" target="_blank">Biografías y Vidas - Porfirio Díaz</a></li>
+        <li><a href="https://es.wikipedia.org/wiki/Porfirio_D%C3%ADaz" target="_blank">Wikipedia - Porfirio Díaz</a></li>
+        <li><a href="https://www.britannica.com/biography/Porfirio-Diaz" target="_blank">Encyclopaedia Britannica - Porfirio Díaz</a></li>
+    </ul>
+</div>
+
+<footer>
+    <p>© 2024 Biografía de Porfirio Díaz</p>
+</footer>
+
+</body>
+</html>
